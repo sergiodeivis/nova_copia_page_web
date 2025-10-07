@@ -39394,7 +39394,7 @@ k(a){return"<default FloatingActionButton tag>"}}
 A.Kp.prototype={
 F(){return"_FloatingActionButtonType."+this.b}}
 A.Ds.prototype={
-S(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=A.bz(a6),a2=a1.ag,a3=a.k1,a4=new A.a7J(a6,a3,!0,a0,a0,a0,a0,a0,6,6,8,a0,6,a0,!0,a0,B.xB,B.xA,B.xC,B.xD,8,a0,a0,a0),a5=a2.a
+S(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=A.bz(a6),a2=a1.ag,a3=a.k1,a4=new A.a7J(a6,a3,!0,a0,a0,a0,a0,a0,6,6,8,a0,6,a0,!0,a0,B.xB,B.xA,B.xD,B.xE,8,a0,a0,a0),a5=a2.a
 if(a5==null)a5=a4.gi_()
 s=a.f
 r=a2.c
@@ -62633,7 +62633,7 @@ m=m.d
 m=A.HK(m,A.jS(q,q,p?B.j:B.l,q,q,q,q,q,q,q,q,22,q,q,B.bb,q,q,!0,q,q,q,q,q,q,q,q),B.bI)
 s=J.lU(r.a.e,new A.aaF(r),t.iF)
 p=A.a_(s,s.$ti.h("av.E"))
-return A.vf(A.agt(A.eq(A.b([l,B.dh,m,B.LS,A.eq(p,B.U,B.L,B.Q)],t.E),B.U,B.L,B.Q),q,B.xF,B.cL,new A.fJ(o,q,q,n,B.kV,q,B.b4),B.kj,q,q,B.CQ,q),B.eT,new A.aaG(r),new A.aaH(r),q)}}
+return A.vf(A.agt(A.eq(A.b([l,B.dh,m,B.LS,A.eq(p,B.U,B.L,B.Q)],t.E),B.U,B.L,B.Q),q,B.xC,B.cL,new A.fJ(o,q,q,n,B.kV,q,B.b4),B.kj,q,q,B.CQ,q),B.eT,new A.aaG(r),new A.aaH(r),q)}}
 A.aaG.prototype={
 $1(a){var s=this.a
 return s.az(new A.aaE(s))},
@@ -62661,7 +62661,7 @@ return b.b<800?A.eq(A.b([A.ux(r,s,B.du,s),B.vI,A.eq(B.kO,B.ah,B.L,B.Q)],q),B.U,B
 $S:127}
 A.Cn.prototype={
 S(a){var s=null,r=A.adt(20),q=t.E
-return A.kp(s,A.eq(A.b([B.Qu,B.dh,B.Qz,B.LV,A.kp(s,A.eq(A.b([new A.m8(B.Dr,"E-mail","novacopia@novacopiagrafica.com.br",new A.SE(),s),B.fE,new A.m8(B.Dt,"Telefone / WhatsApp","(62) 98134-3062",new A.SF(),s),B.fE,new A.m8(B.Ds,"Endere\xe7o","Av. T-2, 1290 Galeria Via Las Palmas - Sala 8 - Setor Bueno, Goi\xe2nia - GO, 27215-005",new A.SG(),s),B.fE,new A.m8(B.Dm,"Hor\xe1rio de Funcionamento","Segunda a Sexta: 08h \xe0s 17h",s,s)],q),B.ah,B.L,B.Q),B.F,s,B.xE,new A.fJ(B.j,s,s,r,B.kV,s,B.b4),s,s,s,B.CP,s,s,s)],q),B.U,B.L,B.Q),B.F,B.dN,s,s,s,s,s,B.fI,s,s,s)}}
+return A.kp(s,A.eq(A.b([B.Qu,B.dh,B.Qz,B.LV,A.kp(s,A.eq(A.b([new A.m8(B.Dr,"E-mail","novacopia@novacopiagrafica.com.br",new A.SE(),s),B.fE,new A.m8(B.Dt,"Telefone / WhatsApp","(62) 98134-3062",new A.SF(),s),B.fE,new A.m8(B.Ds,"Endere\xe7o","Av. T-2, 1290 Galeria Via Las Palmas - Sala 8 - Setor Bueno, Goi\xe2nia - GO, 27215-005",new A.SG(),s),B.fE,new A.m8(B.Dm,"Hor\xe1rio de Funcionamento","Segunda a Sexta: 08h \xe0s 17h",s,s)],q),B.ah,B.L,B.Q),B.F,s,B.xF,new A.fJ(B.j,s,s,r,B.kV,s,B.b4),s,s,s,B.CP,s,s,s)],q),B.U,B.L,B.Q),B.F,B.dN,s,s,s,s,s,B.fI,s,s,s)}}
 A.SE.prototype={
 $0(){var s=A.o2(2,"Solicita\xe7\xe3o de Or\xe7amento",B.J,!1),r=A.o2(2,"Ol\xe1, gostaria de fazer um pedido.",B.J,!1),q=window
 q.toString
@@ -68709,10 +68709,10 @@ B.xz=new A.Bz(B.uQ,B.hP)
 B.dt=new A.an(0,1/0,0,1/0)
 B.xA=new A.an(40,40,40,40)
 B.xB=new A.an(56,56,56,56)
-B.xC=new A.an(96,96,96,96)
-B.xD=new A.an(0,1/0,56,56)
-B.xE=new A.an(0,700,0,1/0)
-B.xF=new A.an(0,1/0,390,1/0)
+B.xC=new A.an(0,1/0,405,1/0)
+B.xD=new A.an(96,96,96,96)
+B.xE=new A.an(0,1/0,56,56)
+B.xF=new A.an(0,700,0,1/0)
 B.j6=new A.an(1/0,1/0,1/0,1/0)
 B.xG=new A.t1(1,"contain")
 B.du=new A.t1(2,"cover")
