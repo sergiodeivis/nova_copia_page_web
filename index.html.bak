@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
   <base href="/">
 
   <meta charset="UTF-8">
@@ -29,7 +16,26 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>nova_copia_page</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Nova Cópia — Fotolito, Vegetal, Crachás, Impressão, Cartão de visita, Adesivo, Cartaz, Projeto de Engenharia em Goiânia</title>
+
+  <meta name="description"
+        content="Impressões em fotolito, vegetal e projetos técnicos em Goiânia. A Nova Cópia oferece impressão digital, gráfica rápida e qualidade profissional para engenheiros, arquitetos e estudantes.">
+  <meta name="keywords"
+        content="fotolito Goiânia, impressão vegetal Goiânia, impressão de projetos, gráfica rápida Goiânia, plotagem, impressão digital, Nova Cópia, cópias, impressão A1, A2, A3, A4, gráfica Goiânia, impressão em papel vegetal">
+  <meta name="robots" content="index, follow">
+
+  <link rel="canonical" href="https://novacopia.com.br/">
+
+  <meta property="og:title" content="Nova Cópia — Fotolito e Impressão de Projetos em Goiânia">
+  <meta property="og:description" content="Especialistas em impressão de fotolito, papel vegetal e projetos técnicos em Goiânia. Gráfica rápida com qualidade e agilidade.">
+  <meta property="og:image" content="https://novacopia.com.br/assets/images/logo.jpeg">
+  <meta property="og:url" content="https://novacopia.com.br/">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="icons/favicon.png" type="image/png">
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
