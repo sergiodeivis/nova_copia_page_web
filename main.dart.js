@@ -65926,7 +65926,7 @@ $0(){A.aiR()},
 $S:0}
 A.IA.prototype={
 U(a){var s=null,r=t.s,q=t.N,p=t.K
-return A.eH(s,A.e1(A.c([B.QW,B.M7,B.QV,B.Mb,A.YY(new A.a5T(A.c([A.b_(["icon",B.DS,"title","Impress\xf5es","items",A.c(["Impress\xe3o Digital","Grande Formato","Projetos de Engenharia","Fotolito e Vegetal","Cartazes e Flyers","Timbrados e Comandas","Adesivos","Receitu\xe1rios e Panfletos","Vouchers"],r)],q,p),A.b_(["icon",B.DU,"title","Materiais Corporativos","items",A.c(["Cart\xf5es de visita","Pastas e Envelopes","Convites (casamento e anivers\xe1rio)","Crach\xe1s em PVC e CredenciaisCanecas personalizadas"],r)],q,p),A.b_(["icon",B.DT,"title","Servi\xe7os Gr\xe1ficos","items",A.c(["Plastifica\xe7\xe3o","Encaderna\xe7\xe3o"],r)],q,p)],t.Mq)))],t.F),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fX,s,s,s)}}
+return A.eH(s,A.e1(A.c([B.QW,B.M7,B.QV,B.Mb,A.YY(new A.a5T(A.c([A.b_(["icon",B.DS,"title","Impress\xf5es","items",A.c(["Impress\xe3o Digital","Grande Formato","Projetos de Engenharia","Fotolito e Vegetal","Cartazes e Flyers","Timbrados e Comandas","Adesivos","Receitu\xe1rios e Panfletos","Vouchers"],r)],q,p),A.b_(["icon",B.DU,"title","Materiais Corporativos","items",A.c(["Cart\xf5es de visita","Pastas e Envelopes","Convites (casamento e anivers\xe1rio)","Crach\xe1s em PVC e Credenciais","Canecas personalizadas"],r)],q,p),A.b_(["icon",B.DT,"title","Servi\xe7os Gr\xe1ficos","items",A.c(["Plastifica\xe7\xe3o","Encaderna\xe7\xe3o"],r)],q,p)],t.Mq)))],t.F),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fX,s,s,s)}}
 A.a5T.prototype={
 $2(a,b){var s,r,q=b.b
 if(q>1000)s=3
