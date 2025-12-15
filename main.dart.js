@@ -65824,7 +65824,7 @@ $S:0}
 A.EZ.prototype={
 U(a){var s=null
 return A.eH(s,A.YY(new A.XE(this)),B.u,B.fH,s,s,s,s,s,B.Dm,s,s,s)},
-G3(){var s,r,q=A.c(["assets/images/02.jpg","assets/images/03.jpg","assets/images/04.jpg","assets/images/05.jpg","assets/images/06.jpg","assets/images/07.jpg","assets/images/08.jpg","assets/images/09.jpg"],t.s),p=A.Tk(20),o=A.at4(1.1157760814249365,!0,B.D9,!0,!0,!0,1),n=t.Sc
+G3(){var s,r,q=A.c(["assets/images/02.jpg","assets/images/03.jpg","assets/images/04.jpg","assets/images/05.jpg","assets/images/06.jpg","assets/images/07.jpg","assets/images/08.jpg","assets/images/09.jpg","assets/images/10.jpg","assets/images/11.jpg"],t.s),p=A.Tk(20),o=A.at4(1.1157760814249365,!0,B.D9,!0,!0,!0,1),n=t.Sc
 n=A.a_(new A.ah(q,new A.XD(),n),n.h("ax.E"))
 s=n.length
 r=$.ad
@@ -65926,7 +65926,7 @@ $0(){A.aiR()},
 $S:0}
 A.IA.prototype={
 U(a){var s=null,r=t.s,q=t.N,p=t.K
-return A.eH(s,A.e1(A.c([B.QW,B.M7,B.QV,B.Mb,A.YY(new A.a5T(A.c([A.b_(["icon",B.DS,"title","Impress\xf5es","items",A.c(["Impress\xe3o Digital","Grande Formato","Projetos de Engenharia","Fotolito e Vegetal","Cartazes e Flyers","Timbrados e Comandas","Adesivos","Receitu\xe1rios e Panfletos","Vouchers"],r)],q,p),A.b_(["icon",B.DU,"title","Materiais Corporativos","items",A.c(["Cart\xf5es de visita","Pastas e Envelopes","Convites (casamento e anivers\xe1rio)","Crach\xe1s em PVC e Credenciais"],r)],q,p),A.b_(["icon",B.DT,"title","Servi\xe7os Gr\xe1ficos","items",A.c(["Plastifica\xe7\xe3o","Encaderna\xe7\xe3o"],r)],q,p)],t.Mq)))],t.F),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fX,s,s,s)}}
+return A.eH(s,A.e1(A.c([B.QW,B.M7,B.QV,B.Mb,A.YY(new A.a5T(A.c([A.b_(["icon",B.DS,"title","Impress\xf5es","items",A.c(["Impress\xe3o Digital","Grande Formato","Projetos de Engenharia","Fotolito e Vegetal","Cartazes e Flyers","Timbrados e Comandas","Adesivos","Receitu\xe1rios e Panfletos","Vouchers"],r)],q,p),A.b_(["icon",B.DU,"title","Materiais Corporativos","items",A.c(["Cart\xf5es de visita","Pastas e Envelopes","Convites (casamento e anivers\xe1rio)","Crach\xe1s em PVC e CredenciaisCanecas personalizadas"],r)],q,p),A.b_(["icon",B.DT,"title","Servi\xe7os Gr\xe1ficos","items",A.c(["Plastifica\xe7\xe3o","Encaderna\xe7\xe3o"],r)],q,p)],t.Mq)))],t.F),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fX,s,s,s)}}
 A.a5T.prototype={
 $2(a,b){var s,r,q=b.b
 if(q>1000)s=3
