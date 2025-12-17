@@ -21,9 +21,32 @@
   <meta name="keywords" content="fotolito Goiânia, impressão vegetal Goiânia, impressão de projetos, gráfica rápida Goiânia, plotagem, impressão digital, Nova Cópia, cópias, impressão A1, A2, A3, A4, gráfica Goiânia, impressão em papel vegetal">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://novacopia.com.br/">
+
+  <!-- ================= FIREBASE ANALYTICS (APENAS ADICIONADO) ================= -->
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-analytics-compat.js"></script>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyA8JnH0K0GR4YNdaQTsnQADMWswhlsLy6c",
+      authDomain: "nova-copia-page.firebaseapp.com",
+      projectId: "nova-copia-page",
+      storageBucket: "nova-copia-page.firebasestorage.app",
+      messagingSenderId: "470576592994",
+      appId: "1:470576592994:web:06ed548e91cdd2bf41793b",
+      measurementId: "G-9TN1QFXDQ7"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+  <!-- ======================================================================= -->
+
 </head>
 <body>
+
 <script src="flutter_bootstrap.js" async></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17772828799"></script>
 <script>
@@ -33,6 +56,7 @@
 
   gtag('config', 'AW-17772828799');
 </script>
+
 <!-- Event snippet for Solicitar cotação conversion page -->
 <script>
   gtag('event', 'conversion', {
@@ -41,6 +65,7 @@
       'currency': 'BRL'
   });
 </script>
+
 <!-- Event snippet for Solicitar cotação (1) conversion page -->
 <script>
   gtag('event', 'conversion', {
@@ -49,5 +74,6 @@
       'currency': 'BRL'
   });
 </script>
+
 </body>
 </html>
