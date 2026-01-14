@@ -22400,7 +22400,7 @@ T4(){var s=new A.fn(Date.now(),0,!1)
 return B.d.fD(B.f.k(A.amh(s)),2,"0")+":"+B.d.fD(B.f.k(A.ami(s)),2,"0")+":"+B.d.fD(B.f.k(A.amk(s)),2,"0")},
 T3(){var s=new A.fn(Date.now(),0,!1)
 return B.d.fD(B.f.k(A.amg(s)),2,"0")+B.d.fD(B.f.k(A.amj(s)),2,"0")+"-"+A.ahI(s)+"-"},
-ajg(){var s=A.oE(2,"Ol\xe1! Gostaria de fazer um pedido na Nova C\xf3pia.",B.L,!1),r=window
+ajg(){var s=A.oE(2,"Ol\xe1! Vim pelo site da Nova C\xf3pia!",B.L,!1),r=window
 r.toString
 B.j4.B8(r,"https://api.whatsapp.com/send?phone=5562981343062&text="+s,"_blank")},
 aDS(a,b){var s,r,q,p,o,n,m,l,k=t._X,j=A.t(t.yk,k)
