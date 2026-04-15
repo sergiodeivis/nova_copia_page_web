@@ -66003,7 +66003,7 @@ return b.b<800?A.e1(A.c([A.Fi(r,s,B.fr,s,s),B.w6,A.e1(B.lu,B.ai,B.H,B.K)],q),B.N
 $S:109}
 A.DG.prototype={
 U(a){var s=null,r=A.aN(4293781732),q=A.TA(20),p=t.F
-return A.eH(s,A.ls(A.c([A.pz(A.e1(A.c([B.QW,B.cp,B.R_,B.Mc,A.eH(s,A.e1(A.c([new A.kM(B.DR,"Instagram","@novacopiago",new A.UF(),s),B.e9,new A.kM(B.DX,"E-mail","novacopia@novacopiagrafica.com.br",new A.UG(),s),B.e9,new A.kM(B.DZ,"Telefone / WhatsApp","(62) 98134-3062",new A.UH(),s),B.e9,new A.kM(B.DY,"Endere\xe7o","Av. T-2, 1290 Galeria Via Las Palmas - Sala 8 - Setor Bueno, Goi\xe2nia - GO, 27215-005",new A.UI(),s),B.e9,new A.kM(B.DS,"Hor\xe1rio de Funcionamento","Segunda a Sexta: 08h \xe0s 17h",s,s)],p),B.ai,B.H,B.K),B.u,s,B.y_,new A.fl(r,s,s,q,B.lw,s,B.aN),s,s,s,B.Dk,s,s,s)],p),B.N,B.H,B.K),1)],p),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fY,s,s,s)}}
+return A.eH(s,A.ls(A.c([A.pz(A.e1(A.c([B.QW,B.cp,B.R_,B.Mc,A.eH(s,A.e1(A.c([new A.kM(B.DR,"Instagram","@novacopiago",new A.UF(),s),B.e9,new A.kM(B.DX,"E-mail","novacopiago@gmail.com",new A.UG(),s),B.e9,new A.kM(B.DZ,"Telefone / WhatsApp","(62) 98134-3062",new A.UH(),s),B.e9,new A.kM(B.DY,"Endere\xe7o","Av. T-2, 1290 Galeria Via Las Palmas - Sala 8 - Setor Bueno, Goi\xe2nia - GO, 27215-005",new A.UI(),s),B.e9,new A.kM(B.DS,"Hor\xe1rio de Funcionamento","Segunda a Sexta: 08h \xe0s 17h",s,s)],p),B.ai,B.H,B.K),B.u,s,B.y_,new A.fl(r,s,s,q,B.lw,s,B.aN),s,s,s,B.Dk,s,s,s)],p),B.N,B.H,B.K),1)],p),B.N,B.H,B.K),B.u,B.i,s,s,s,s,s,B.fY,s,s,s)}}
 A.UF.prototype={
 $0(){var s=window
 s.toString
@@ -66013,7 +66013,7 @@ $S:0}
 A.UG.prototype={
 $0(){var s=A.oE(2,"Solicita\xe7\xe3o de Or\xe7amento",B.L,!1),r=A.oE(2,"Ol\xe1, gostaria de fazer um pedido.",B.L,!1),q=window
 q.toString
-B.f9.us(q,"mailto:novacopia@novacopiagrafica.com.br?subject="+s+"&body="+r,"_blank")
+B.f9.us(q,"mailto:novacopiago@gmail.com?subject="+s+"&body="+r,"_blank")
 A.ty("Clicou Email")},
 $S:0}
 A.UH.prototype={
